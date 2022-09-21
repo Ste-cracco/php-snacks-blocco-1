@@ -40,11 +40,5 @@ $posts = [
     ],
 ];
 
-foreach($posts as $key )
-{
-  echo $key;
-}
-
-
 
 ?>
